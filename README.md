@@ -7,6 +7,6 @@ Sinta-se à vontade para explorar os projetos!
 # Projeto 1: Calculadora Simples
 
 Neste projeto fiz calculadora funcional
-* Todos os operadores básico funcionais
+* Todos os operadores básicos funcionais
 * fundo animado
 * Foi criado com Html, Css e javascript
